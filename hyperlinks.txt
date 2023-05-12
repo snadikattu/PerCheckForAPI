@@ -1,2 +1,0 @@
-
-https://learn.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl
